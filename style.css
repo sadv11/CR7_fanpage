@@ -1,0 +1,28 @@
+
+.slides{
+ width:900px;
+ height:1100px;
+}
+.cr7{
+    background: black;
+    text-align: center;
+    color: white;
+}
+.club{
+    height:200px;
+    margin-top:90px;
+}
+#navLogo{
+    width:40px;
+}
+#info{
+    position: absolute;
+    top: 250%;
+    left:70%;
+    height: 100px;
+    width: 350px;
+    background: black;
+    border: 2px solid white;
+    color: white;
+    visibility: hidden;
+}
